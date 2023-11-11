@@ -5,6 +5,16 @@ body{
 }
 
 .imagem {
-    width: 
+    width: 500px;
     height:auto 20px 40px;
+}
+
+nav {
+    background-color: rgb(255, 0, 0);
+    border-radius: 10px 10px 10px 10px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    color: black;
+    box-shadow: 10px 10px 10px rgb(149, 148, 148);
 }
